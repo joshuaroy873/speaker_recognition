@@ -10,3 +10,5 @@ Same Utterance 1: Contains the speech "Library Access".
 Same Utterance 2: Contains the speech "Library Access".
 
 Different Utterance: Contains some random words.
+
+Documentation: https://ieeexplore.ieee.org/abstract/document/9293842
